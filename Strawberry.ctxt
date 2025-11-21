@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Strawberry
+comment1.params=
+comment1.target=Strawberry()
+comment2.params=
+comment2.target=void\ createImage()
+comment3.params=
+comment3.target=greenfoot.Color\ getFruitColor()
+numComments=4

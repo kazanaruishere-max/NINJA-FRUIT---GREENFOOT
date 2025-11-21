@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FruitHalf
+comment1.params=originalImage\ isLeft
+comment1.target=FruitHalf(greenfoot.GreenfootImage,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
